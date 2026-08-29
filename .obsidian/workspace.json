@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "d7a366f26cfa4227",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f0a889d42bb0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a966e46d97176f72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "视频总结/如何永远学会一个单词：背单词方法论.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如何永远学会一个单词：背单词方法论"
+            },
+            "group": "dc692fc6a79fca5c"
+          }
+        ]
+      },
+      {
+        "id": "3c7108c5c3e6cb06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dc636219b512944",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "视频总结/如何永远学会一个单词：背单词方法论.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "如何永远学会一个单词：背单词方法论 的大纲"
+            },
+            "group": "dc692fc6a79fca5c"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "353f3fcbb8221c18",
+    "type": "split",
+    "children": [
+      {
+        "id": "49cb822ae048026c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39a01d53b0afbaa3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f7942ae8887ea281",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e68277f793c70f00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a72948081d1e17fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf2c91c9a9eb34d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10985242e44692d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Codex 介绍.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d6a0611bab798028",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Codex 介绍.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "253ccffc28f27800",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d112918eec29ec5d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "bd8705c8569a43e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "视频总结/如何永远学会一个单词：背单词方法论.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "43df8dc6480ad1bd",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1788001980575-56pl2n9",
+                      "conversationId": "conv-1788002080193-fubhq66m6"
+                    }
+                  ],
+                  "activeTabId": "tab-1788001980575-56pl2n9"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "33cfb2c14a087f79",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.833251953125
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a966e46d97176f72",
+  "lastOpenFiles": [
+    "视频总结/软件工程概述_两个视频教案式总结.md",
+    "Clippings/使用记录.md",
+    "视频总结/生成式软件工程第一课总结.md",
+    "Clippings",
+    "视频总结/这学期课程关键词.md",
+    "未命名 1.base",
+    "未命名.base",
+    "Codex 介绍.md",
+    "视频总结/_video_summary_tmp/p1_frames/03_0825s.jpg",
+    "视频总结/_video_summary_tmp/p1_frames/01_0275s.jpg",
+    "视频总结/_video_summary_tmp/p1_frames/00_0000s.jpg",
+    "视频总结/_video_summary_tmp/p2_frames_seq/15_4603s.jpg",
+    "视频总结/_video_summary_tmp/p2_frames_seq/14_4296s.jpg",
+    "视频总结/_video_summary_tmp/p2_frames_seq/13_3989s.jpg",
+    "视频总结/_video_summary_tmp/p2_frames_seq/12_3682s.jpg",
+    "视频总结/_video_summary_tmp/p2_frames_seq/11_3376s.jpg",
+    "视频总结/_video_summary_tmp/p2_frames_seq/10_3069s.jpg",
+    "视频总结/_video_summary_tmp/p2_frames_seq/09_2762s.jpg",
+    "视频总结/_video_summary_tmp/p2_video.m4s",
+    "视频总结/_video_summary_tmp/p2_transcript.txt",
+    "视频总结/_video_summary_tmp/p2_frames_seq",
+    "视频总结/_video_summary_tmp/p2_frames",
+    "视频总结/_video_summary_tmp/p2_audio.m4s",
+    "视频总结/_video_summary_tmp/p1_video.m4s",
+    "视频总结/_video_summary_tmp/p1_transcript.txt",
+    "生成式软件工程第一课总结.md",
+    "这学期课程关键词.md",
+    "欢迎.md"
+  ]
+}
