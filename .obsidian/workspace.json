@@ -6,6 +6,7 @@
       {
         "id": "e5f0a889d42bb0b8",
         "type": "tabs",
+        "dimension": 59.857723577235774,
         "children": [
           {
             "id": "a966e46d97176f72",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频总结/《深入浅出软件工程》教案式总结.md",
+                "file": "视频总结/《计算机组成原理微课堂》教案式总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《深入浅出软件工程》教案式总结"
+              "title": "《计算机组成原理微课堂》教案式总结"
             },
             "group": "dc692fc6a79fca5c"
           }
@@ -27,6 +28,7 @@
       {
         "id": "3c7108c5c3e6cb06",
         "type": "tabs",
+        "dimension": 40.142276422764226,
         "children": [
           {
             "id": "0dc636219b512944",
@@ -34,13 +36,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频总结/《深入浅出软件工程》教案式总结.md",
+                "file": "视频总结/《计算机组成原理微课堂》教案式总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《深入浅出软件工程》教案式总结 的大纲"
+              "title": "《计算机组成原理微课堂》教案式总结 的大纲"
             },
             "group": "dc692fc6a79fca5c"
           }
@@ -209,9 +211,13 @@
                     {
                       "tabId": "tab-1788013239779-xa6d60f",
                       "conversationId": "conv-1788013286546-sfpmngegg"
+                    },
+                    {
+                      "tabId": "tab-1788016135275-l4ta4h3",
+                      "conversationId": "conv-1788016219844-fxs88ytl4"
                     }
                   ],
-                  "activeTabId": "tab-1788013239779-xa6d60f"
+                  "activeTabId": "tab-1788016135275-l4ta4h3"
                 }
               },
               "icon": "bot",
@@ -248,10 +254,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a966e46d97176f72",
+  "active": "33cfb2c14a087f79",
   "lastOpenFiles": [
-    "视频总结/《生成式软件工程》教案式总结.md",
     "视频总结/《深入浅出软件工程》教案式总结.md",
+    "视频总结/《计算机组成原理微课堂》教案式总结.md",
+    "README.md",
+    "视频总结/《生成式软件工程》教案式总结.md",
     "视频总结/如何永远学会一个单词：背单词方法论.md",
     "大三上课程关键词.md",
     "Clippings/使用记录.md",
