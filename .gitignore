@@ -1,0 +1,8 @@
+# Generated video/audio working files
+视频总结/_video_summary_tmp/
+
+# Local Claudian conversation history
+.claudian/sessions/
+
+# Obsidian local trash
+.trash/
