@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频总结/软件工程概述_两个视频教案式总结.md",
+                "file": "视频总结/深入浅出软件工程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "软件工程概述_两个视频教案式总结"
+              "title": "深入浅出软件工程"
             },
             "group": "dc692fc6a79fca5c"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频总结/软件工程概述_两个视频教案式总结.md",
+                "file": "视频总结/深入浅出软件工程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "软件工程概述_两个视频教案式总结 的大纲"
+              "title": "深入浅出软件工程 的大纲"
             },
             "group": "dc692fc6a79fca5c"
           }
@@ -205,6 +205,10 @@
                     {
                       "tabId": "tab-1788001980575-56pl2n9",
                       "conversationId": "conv-1788002080193-fubhq66m6"
+                    },
+                    {
+                      "tabId": "tab-1788011620572-5bra789",
+                      "conversationId": "conv-1788011645143-yzqtw3tfb"
                     }
                   ],
                   "activeTabId": "tab-1788001980575-56pl2n9"
@@ -225,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -247,9 +251,9 @@
   "active": "a966e46d97176f72",
   "lastOpenFiles": [
     "视频总结/生成式软件工程.md",
+    "视频总结/深入浅出软件工程.md",
     "大三上课程关键词.md",
     "视频总结/如何永远学会一个单词：背单词方法论.md",
-    "视频总结/软件工程概述_两个视频教案式总结.md",
     "Clippings/使用记录.md",
     "Clippings",
     "未命名 1.base",
