@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "视频总结/《生成式软件工程》教案式总结.md",
+                "file": "视频总结/《深入浅出软件工程》教案式总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "《生成式软件工程》教案式总结"
+              "title": "《深入浅出软件工程》教案式总结"
             },
             "group": "dc692fc6a79fca5c"
           }
@@ -34,13 +34,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "视频总结/《生成式软件工程》教案式总结.md",
+                "file": "视频总结/《深入浅出软件工程》教案式总结.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "《生成式软件工程》教案式总结 的大纲"
+              "title": "《深入浅出软件工程》教案式总结 的大纲"
             },
             "group": "dc692fc6a79fca5c"
           }
@@ -248,10 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33cfb2c14a087f79",
+  "active": "a966e46d97176f72",
   "lastOpenFiles": [
-    "视频总结/《深入浅出软件工程》教案式总结.md",
     "视频总结/《生成式软件工程》教案式总结.md",
+    "视频总结/《深入浅出软件工程》教案式总结.md",
     "视频总结/如何永远学会一个单词：背单词方法论.md",
     "大三上课程关键词.md",
     "Clippings/使用记录.md",
