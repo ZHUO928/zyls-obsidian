@@ -108,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a72948081d1e17fe",
@@ -254,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a966e46d97176f72",
+  "active": "39a01d53b0afbaa3",
   "lastOpenFiles": [
     "视频总结/《生成式软件工程》教案式总结.md",
     "视频总结/《计算机组成原理微课堂》教案式总结.md",
